@@ -90,4 +90,4 @@ async def predict_nsfw_from_upload(file: UploadFile = File(...)):
 @app.get("/", include_in_schema=False)
 def root():
     return {"message": "NSFW Detection API is running"}
-    #
+    
