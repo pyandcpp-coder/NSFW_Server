@@ -15,18 +15,6 @@ A FastAPI-powered backend service to detect NSFW (Not Safe For Work) content in 
 
 ---
 
-## Project Structure
-
-NSFW_Server/
-├── api/
-│ ├── init.py
-│ ├── main.py # FastAPI app entry point
-├── requirements.txt # Python dependencies
-├── venv/ # Virtual environment 
-└── README.md
-
----
-
 ## Setup
 
 ### Clone the Repository
